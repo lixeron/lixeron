@@ -1,25 +1,46 @@
-Hi there! 👋 I'm Lixeron
-I'm currently just a CS student and IT desktop support tech with a passion for Linux, infrastructure, and building things from scratch. I'm actively expanding my homelab and leveling up my skills to transition into DevOps and Cybersecurity.
+# Hi, I'm Lixeron
 
-🛠️ Tech Stack & Tools
-Languages: Python, GoLang, SQL
+I'm a CS senior and IT desktop support tech, building real products while I level up toward DevOps, cloud, and security. I run a small solo studio called Astoylo, and I like shipping things that actually work: a live Shopify app, a full-stack SaaS, a native Android app, and a few games for when I need a break from the serious stuff.
 
-Infrastructure & OS: Docker, Fedora Linux (Xfce)
+```text
+lixeron@github
+------------------
+Role      CS Senior + IT Desktop Support
+Studio    Astoylo (solo dev)
+Focus     DevOps, Cloud, Cybersecurity
+Daily     Windows 11 / Fedora Linux (KDE Plasma), dual-boot
+Learning  CompTIA Security+, cloud infra, homelab
+Status    Open to internships and new-grad roles
+```
 
-Currently Studying For: CompTIA Security+ and CCNA
+## What I'm building
 
-🚀 What I'm Working On
-Developing Arto, a spam-blocking application.
+- **[Anvil](https://apps.shopify.com/anvil-1):** a live Shopify app for advanced, conditional product options, with a free tier and paid Pro. Approved and on the App Store under my studio, Astoylo.
+- **[Project Specter](https://github.com/lixeron/Project_Specter):** an open-core adversary simulation platform that runs phishing, smishing, QR, and credential-harvest campaigns to train staff, then tracks who took the bait. FastAPI, React, Docker, CI/CD.
+- **[Prism](https://github.com/lixeron/prism):** an AI content repurposing engine. Paste a YouTube link and get platform-ready posts back in seconds. FastAPI and Gemini on Railway, React on Vercel.
+- **[Vealthy](https://github.com/lixeron/Vealthy):** a voice-first Android cooking app in Kotlin and Jetpack Compose. Say what is in your kitchen and it finds what you can cook, completely hands-free.
+- **[Trackly](https://github.com/lixeron/trackly):** a live map of Birmingham's railroad crossings, backed by real FRA blockage data. FastAPI, PostGIS, React, Leaflet.
 
-Building out/planning potential various personal software projects like a facial recognition app, a budgeting tool, and a fitness app.
+## Currently into
 
-Diving into cybersecurity, with a focus on pentesting and bug bounties, though my interest is also largely in the Cloud!
-I think the cloud is one of the coolest things to exist in this day.
+- Cloud, most of all. I think it is one of the coolest areas in tech right now, and it is where I want to end up.
+- Building out a homelab for real hands-on infrastructure, monitoring, and DevOps practice.
+- Studying for CompTIA Security+.
+- A bit of pentesting and bug bounty work on the side to stay sharp.
+- Mapping out a DIY cyberdeck build, because I like hardware projects as much as software ones.
 
-Planning out DIY hardware builds (currently mapping out a Cyberdeck project).
+## Always learning
 
-⚡ Fun Facts
-When I'm not tinkering in my terminal, you can usually find me in the kitchen perfecting a from-scratch Pho or baking a fresh loaf of sourdough bread.
+**Languages:** Python, Kotlin, JavaScript / React, SQL, Bash, GDScript
+**Tools:** Docker, Git, Linux, FastAPI, PostgreSQL
 
-📫 Let's Connect
-Email: etran0155@gmail.com
+I don't consider myself a master of any of these. I just keep leveling up on whatever the current project needs.
+
+## Off the clock
+
+When I'm not in the terminal, I'm usually in the kitchen working on a from-scratch pho or a fresh loaf of sourdough.
+
+## Reach me
+
+- Portfolio: https://lixeronportfolio.vercel.app
+- Email: etran0155@gmail.com
